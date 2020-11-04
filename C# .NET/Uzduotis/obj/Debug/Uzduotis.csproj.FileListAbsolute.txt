@@ -1,0 +1,17 @@
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\bin\Debug\Uzduotis.exe.config
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\bin\Debug\Uzduotis.exe
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\bin\Debug\Uzduotis.pdb
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.Properties.Resources.resources
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.csproj.GenerateResource.cache
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.exe
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.pdb
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.LoginForm.resources
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.RegistrationForm.resources
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.Forms.UserForm.resources
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.UserPasswordChangeController.resources
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.UserProfilePictureController.resources
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.csprojAssemblyReference.cache
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.AdminUserListController.resources
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.AdminForm.resources
+C:\Users\arnas\Desktop\Objektinis programavimas\PraktineUzduotis3\Uzduotis\Uzduotis\obj\Debug\Uzduotis.AdminControllers.AdminPasswordChangeController.resources
